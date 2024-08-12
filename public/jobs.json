@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Gala Dancer",
+        "description": "cultural dance performer",
+        "points": 30,
+        "eventId": 1,
+        "numberNeeded": 20,
+        "id": 1
+        
+    },
+    { 
+        "name": "Design Team",
+        "description": "Event venue designer",
+        "points": 15,
+        "eventId": 1,
+        "numberNeeded": 10,
+        "id": 2
+    },
+    { 
+        "name": "Fashion Show model",
+        "description": "Fashion Show model",
+        "points": 10,
+        "eventId": 2,
+        "numberNeeded": 10,
+        "id": 3
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "Helen Alon",
+        "month": "July",
+        "details": "Helen has been a volunteer for 30 years!",
+        "image": "images/Helen.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Apple Constantino",
+        "month": "August",
+        "details": "Lead Dance Coordinator",
+        "image": ""
+    }
+]

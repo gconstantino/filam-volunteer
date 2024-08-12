@@ -1,0 +1,18 @@
+[
+    {
+        "name": "FilAm Gala 2023",
+        "startDateTime": "September 23, 2023 6:00 PM",
+        "endDateTime": "September 23, 2023 10:00 PM",
+        "location": "R2I2 Conference Center",
+        "id": 1,
+        "photo": "event1"
+    },
+    {
+        "name": "Filipino- American History Month ",
+        "startDateTime": "October 18th, 2023 10:00 AM",
+        "endDateTime": "October 18th, 2023 1:00 PM",
+        "location": "Columbia Museum of Arts",
+        "id": 2, 
+        "photo": "event2"
+    }
+]

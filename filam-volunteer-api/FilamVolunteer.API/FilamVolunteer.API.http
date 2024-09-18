@@ -1,0 +1,6 @@
+@FilamVolunteer.API_HostAddress = http://localhost:5076
+
+GET {{FilamVolunteer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

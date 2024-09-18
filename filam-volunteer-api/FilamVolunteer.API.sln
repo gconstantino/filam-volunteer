@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilamVolunteer.API", "FilamVolunteer.API\FilamVolunteer.API.csproj", "{28BF008E-6256-4EFA-AA0F-EE28E804AEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BF008E-6256-4EFA-AA0F-EE28E804AEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BF008E-6256-4EFA-AA0F-EE28E804AEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BF008E-6256-4EFA-AA0F-EE28E804AEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BF008E-6256-4EFA-AA0F-EE28E804AEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C4077B8-C7DA-463D-BFEC-198A8D82D48F}
+	EndGlobalSection
+EndGlobal
